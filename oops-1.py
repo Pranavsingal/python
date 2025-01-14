@@ -57,6 +57,6 @@ acc1.debit (1000)
 acc1.credit(500)
 acc1.credit(30300)
 acc1.debit (5000)
-acc1.debit (55)
+acc1.debit (65)
 
 print(acc1.balance, "is your remaining balance")
